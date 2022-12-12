@@ -1,16 +1,18 @@
-<xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 strict//EN"
 "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
 	<head>
-		<link rel="stylesheet" type="text/css" href="css/css.css"/> 
+	<link rel="stylesheet" type="text/css" href="css/css.css"/> 
 		<title> My Fourth Web Site </title>
-	</head>
+		</head>
+	
 	<body>
 		<div class="wrapper">
 			<div class = "header">
-				<h1>THE AVENGERS</h1>
+				<h1>IRON MAN</h1>
 			</div>
+			
 			<div class = "navigation">
 			    <li><a href="index.html">HOME</a></li> 
 				<li><a href="hulk.html">HULK</a></li> 
@@ -19,12 +21,15 @@
 				<li><a href="widow.html">BLACK WIDOW</a></li> 
 				<li><a href="hawkeye.html">HAWKEYE</a></li>
 				<li><a href="thor.html">THOR</a></li>
-			</div>
+			</div
+
 			<div class="content">
-				<img class="avengersimg" src="images/avengers.jpg" width="600px" height="400px"/>
+			<img class=avengersimg" src="images/ironman.jpg" width="600px" height="400px"/>
 			</div>
+			
 			<div class ="footer">
 			</div>
 		</div>
+		
 	</body>
 </html>

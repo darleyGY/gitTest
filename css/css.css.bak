@@ -1,0 +1,52 @@
+
+
+
+.wrapper{
+width:800px;
+height:1200px;
+position:relative;
+margin:0 auto;
+background-color:grey;
+}
+
+.header{
+text-align:center;
+}
+
+.navigation{
+text-align:center;
+margin-bottom:60px;
+background-color:red;
+}
+
+.avengersimg{
+position:relative;
+margin-left:100px;
+}
+
+a:link {
+	color:#000;
+	text-decoration:none;
+	background-color:white;
+}
+
+a:visited {
+	color:#0033dd;
+	text-decoration:none;
+	background-color:white;
+}
+
+a:hover {
+	color:#ffbbdd;
+	text-decoration:none;
+	background-color:white;
+}
+
+li{
+display:inline;
+font-weight:bold;
+margin-left:5px;
+margin-right:5px;
+text-decoration:none;
+
+}
